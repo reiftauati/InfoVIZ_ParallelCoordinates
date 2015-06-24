@@ -6,3 +6,5 @@ for visualizing large amounts of data.
 This project maps something like 50000 runners in a marathon.
 
 See the demo in action here: https://www.youtube.com/watch?v=qKv9QiuNJ_Y&feature=youtu.be
+
+Credit for a single class -> HyrumPolyline Class -> written by my InfoViz professor Geoffrey M. Draper. http://draperg.cis.byuh.edu
